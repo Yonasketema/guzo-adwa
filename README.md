@@ -1,4 +1,4 @@
-# guzo-adwa
+# GUZO-ADWA
 
  https://yonasketema.github.io/guzo-adwa/
 
